@@ -1,6 +1,6 @@
 # 🌳 Amazônia em Números
 
-Dados abertos da série **Amazônia em Números**, publicada no LinkedIn e no Instagram por **Marcela Paz da Silva Enriquez**, economista paraense e mestranda em Ciências Econômicas (UFF), com foco em finanças verdes e risco climático.
+Dados abertos da série **Amazônia em Números**, publicada no LinkedIn e no Instagram por **Marcela Paz da Silva Enriquez**, economista paraense e mestranda em Ciências Econômicas (UFF), com foco em finanças verdes e desenvolvimento sustentável.
 
 Todos os números vêm **direto da fonte oficial**, com o dado bruto, o script de tratamento e os gráficos, para qualquer pessoa conferir e reproduzir.
 
