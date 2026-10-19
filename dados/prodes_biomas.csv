@@ -31,12 +31,12 @@ Amazônia (não floresta),2010,378.17,,sim
 Amazônia (não floresta),2011,351.55,,sim
 Amazônia (não floresta),2012,351.55,,sim
 Amazônia (não floresta),2013,351.55,,sim
-Amazônia (não floresta),2014,642.27,82.7,não
+Amazônia (não floresta),2014,642.27,,não
 Amazônia (não floresta),2015,514.56,,sim
 Amazônia (não floresta),2016,514.56,,sim
 Amazônia (não floresta),2017,556.04,,sim
 Amazônia (não floresta),2018,556.04,,sim
-Amazônia (não floresta),2019,679.65,22.23,não
+Amazônia (não floresta),2019,679.65,,não
 Amazônia (não floresta),2020,668.55,-1.63,não
 Amazônia (não floresta),2021,719.34,7.6,não
 Amazônia (não floresta),2022,726.33,0.97,não
@@ -53,13 +53,13 @@ Caatinga,2007,6351.46,,sim
 Caatinga,2008,6351.46,,sim
 Caatinga,2009,3943.08,,sim
 Caatinga,2010,3943.08,,sim
-Caatinga,2011,4059.43,2.95,não
+Caatinga,2011,4059.43,,não
 Caatinga,2012,3947.56,,sim
 Caatinga,2013,3947.56,,sim
-Caatinga,2014,3602.16,-8.75,não
+Caatinga,2014,3602.16,,não
 Caatinga,2015,2432.87,,sim
 Caatinga,2016,2432.87,,sim
-Caatinga,2017,2246.17,-7.67,não
+Caatinga,2017,2246.17,,não
 Caatinga,2018,2169.55,-3.41,não
 Caatinga,2019,1868.16,-13.89,não
 Caatinga,2020,2226.05,19.16,não
@@ -80,7 +80,7 @@ Cerrado,2009,9910.34,,sim
 Cerrado,2010,9910.34,,sim
 Cerrado,2011,8976.17,,sim
 Cerrado,2012,8976.17,,sim
-Cerrado,2013,13481.6,50.19,não
+Cerrado,2013,13481.6,,não
 Cerrado,2014,10904.42,-19.12,não
 Cerrado,2015,11131.65,2.08,não
 Cerrado,2016,7497.12,-32.65,não
@@ -104,13 +104,13 @@ Mata Atlântica,2007,4004.42,,sim
 Mata Atlântica,2008,4004.42,,sim
 Mata Atlântica,2009,2020.43,,sim
 Mata Atlântica,2010,2020.43,,sim
-Mata Atlântica,2011,1879.88,-6.96,não
+Mata Atlântica,2011,1879.88,,não
 Mata Atlântica,2012,1427.8,,sim
 Mata Atlântica,2013,1427.8,,sim
-Mata Atlântica,2014,1887.33,32.18,não
+Mata Atlântica,2014,1887.33,,não
 Mata Atlântica,2015,1206.65,,sim
 Mata Atlântica,2016,1206.65,,sim
-Mata Atlântica,2017,1166.12,-3.36,não
+Mata Atlântica,2017,1166.12,,não
 Mata Atlântica,2018,1344.35,15.28,não
 Mata Atlântica,2019,1067.37,-20.6,não
 Mata Atlântica,2020,790.61,-25.93,não
@@ -129,13 +129,13 @@ Pampa,2007,1449.72,,sim
 Pampa,2008,1449.72,,sim
 Pampa,2009,1027.92,,sim
 Pampa,2010,1027.92,,sim
-Pampa,2011,1699.81,65.36,não
+Pampa,2011,1699.81,,não
 Pampa,2012,1125.97,,sim
 Pampa,2013,1125.97,,sim
-Pampa,2014,2118.72,88.17,não
+Pampa,2014,2118.72,,não
 Pampa,2015,924.38,,sim
 Pampa,2016,924.38,,sim
-Pampa,2017,925.88,0.16,não
+Pampa,2017,925.88,,não
 Pampa,2018,917.77,-0.88,não
 Pampa,2019,1027.4,11.95,não
 Pampa,2020,888.62,-13.51,não
@@ -154,13 +154,13 @@ Pantanal,2007,518.45,,sim
 Pantanal,2008,518.45,,sim
 Pantanal,2009,664.89,,sim
 Pantanal,2010,664.89,,sim
-Pantanal,2011,510.39,-23.24,não
+Pantanal,2011,510.39,,não
 Pantanal,2012,429.83,,sim
 Pantanal,2013,429.83,,sim
-Pantanal,2014,369.73,-13.98,não
+Pantanal,2014,369.73,,não
 Pantanal,2015,618.55,,sim
 Pantanal,2016,618.55,,sim
-Pantanal,2017,711.6,15.04,não
+Pantanal,2017,711.6,,não
 Pantanal,2018,498.52,-29.94,não
 Pantanal,2019,514.48,3.2,não
 Pantanal,2020,677.86,31.76,não
