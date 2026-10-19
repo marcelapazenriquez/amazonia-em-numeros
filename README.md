@@ -8,7 +8,7 @@ Todos os números vêm **direto da fonte oficial**, com o dado bruto, o script d
 
 ## #1. Desde 2023, o Cerrado perde mais vegetação que a Amazônia
 
-![Cerrado x Amazônia](graficos/01_amazonia_x_cerrado.png)
+<img src="graficos/01_amazonia_x_cerrado.png" width="55%" alt="Cerrado x Amazônia">
 
 Na rota Rio–Belém, o avião cruza o Cerrado de Goiás e do Tocantins antes de chegar à floresta. A série do PRODES/INPE (2008–2026) mostra:
 
@@ -18,8 +18,8 @@ Na rota Rio–Belém, o avião cruza o Cerrado de Goiás e do Tocantins antes de
 - Entre 2008 e 2025, o Cerrado perdeu **168.339 km²** de vegetação nativa, contra 144.598 km² no bioma Amazônia.
 
 <p>
-  <img src="graficos/02_amazonia_serie.png" width="48%">
-  <img src="graficos/03_biomas_2025.png" width="48%">
+  <img src="graficos/02_amazonia_serie.png" width="40%">
+  <img src="graficos/03_biomas_2025.png" width="40%">
 </p>
 
 ---
