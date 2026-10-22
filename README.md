@@ -24,19 +24,31 @@ Na rota Rio–Belém, o avião cruza o Cerrado de Goiás e do Tocantins antes de
 
 ---
 
-## Estrutura
+## O que tem neste repositório
 
-```
-dados/
-  brutos/prodes_<bioma>.csv   ← exportados do TerraBrasilis, sem alteração
-  prodes_biomas.csv           ← base tratada (bioma, ano, área, variação)
-R/
-  prodes_biomas.R             ← trata os brutos e gera os gráficos
-graficos/                     ← PNGs 4:5 usados nos posts
-posts/                        ← texto de cada post publicado
+| Pasta ou arquivo | O que é |
+|---|---|
+| [`dados/prodes_biomas.xlsx`](dados/prodes_biomas.xlsx) | **Base completa em Excel**, pronta para abrir. Comece por aqui. |
+| [`dados/prodes_biomas.csv`](dados/prodes_biomas.csv) | A mesma base em CSV, para quem usa R, Python ou Stata. |
+| [`dados/brutos/`](dados/brutos) | Os arquivos originais baixados do INPE, sem nenhuma alteração. Servem para auditoria. |
+| [`R/prodes_biomas.R`](R/prodes_biomas.R) | O código que lê os arquivos do INPE, organiza a base e gera os gráficos. |
+| [`graficos/`](graficos) | Os gráficos usados nos posts. |
+| [`posts/`](posts) | O texto de cada post publicado. |
+
+### Como refazer a análise
+
+Quem quiser conferir ou reproduzir os resultados:
+
+1. Baixe o repositório (botão verde **Code → Download ZIP**) e descompacte.
+2. No R ou RStudio, defina a pasta descompactada como diretório de trabalho.
+3. Instale os pacotes (só na primeira vez) e rode o script:
+
+```r
+install.packages(c("readr", "dplyr", "purrr", "stringr", "ggplot2", "ggtext"))
+source("R/prodes_biomas.R", encoding = "UTF-8")
 ```
 
-Para reproduzir: abra o RStudio na pasta do repositório e rode `R/prodes_biomas.R`.
+O script recria a base em `dados/` e os gráficos em `graficos/`, e mostra no console os números citados no post.
 
 ## Notas metodológicas
 
