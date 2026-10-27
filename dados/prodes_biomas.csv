@@ -1,0 +1,171 @@
+bioma,ano,area_km2,variacao_pct,mapeamento_bienal
+Amazônia (floresta),2008,12398.68,,não
+Amazônia (floresta),2009,5873.04,-52.63,não
+Amazônia (floresta),2010,5829.17,-0.75,não
+Amazônia (floresta),2011,5394.37,-7.46,não
+Amazônia (floresta),2012,4127.21,-23.49,não
+Amazônia (floresta),2013,5147.83,24.73,não
+Amazônia (floresta),2014,4870.93,-5.38,não
+Amazônia (floresta),2015,5908.73,21.31,não
+Amazônia (floresta),2016,7077.57,19.78,não
+Amazônia (floresta),2017,6758.36,-4.51,não
+Amazônia (floresta),2018,6957.77,2.95,não
+Amazônia (floresta),2019,10700.58,53.79,não
+Amazônia (floresta),2020,10351.51,-3.26,não
+Amazônia (floresta),2021,12177.19,17.64,não
+Amazônia (floresta),2022,12473.98,2.44,não
+Amazônia (floresta),2023,7806.28,-37.42,não
+Amazônia (floresta),2024,6070.82,-22.23,não
+Amazônia (floresta),2025,5110.68,-15.82,não
+Amazônia (floresta),2026,3362.94,-34.2,não
+Amazônia (não floresta),2001,1551.8,,sim
+Amazônia (não floresta),2002,1551.8,,sim
+Amazônia (não floresta),2003,1380.02,,sim
+Amazônia (não floresta),2004,1380.02,,sim
+Amazônia (não floresta),2005,941.24,,sim
+Amazônia (não floresta),2006,941.24,,sim
+Amazônia (não floresta),2007,581.53,,sim
+Amazônia (não floresta),2008,581.53,,sim
+Amazônia (não floresta),2009,378.17,,sim
+Amazônia (não floresta),2010,378.17,,sim
+Amazônia (não floresta),2011,351.55,,sim
+Amazônia (não floresta),2012,351.55,,sim
+Amazônia (não floresta),2013,351.55,,sim
+Amazônia (não floresta),2014,642.27,,não
+Amazônia (não floresta),2015,514.56,,sim
+Amazônia (não floresta),2016,514.56,,sim
+Amazônia (não floresta),2017,556.04,,sim
+Amazônia (não floresta),2018,556.04,,sim
+Amazônia (não floresta),2019,679.65,,não
+Amazônia (não floresta),2020,668.55,-1.63,não
+Amazônia (não floresta),2021,719.34,7.6,não
+Amazônia (não floresta),2022,726.33,0.97,não
+Amazônia (não floresta),2023,584.82,-19.48,não
+Amazônia (não floresta),2024,554.04,-5.26,não
+Amazônia (não floresta),2025,454.08,-18.04,não
+Caatinga,2001,12186.41,,sim
+Caatinga,2002,12186.41,,sim
+Caatinga,2003,12186.41,,sim
+Caatinga,2004,12186.41,,sim
+Caatinga,2005,8172.6,,sim
+Caatinga,2006,8172.6,,sim
+Caatinga,2007,6351.46,,sim
+Caatinga,2008,6351.46,,sim
+Caatinga,2009,3943.08,,sim
+Caatinga,2010,3943.08,,sim
+Caatinga,2011,4059.43,,não
+Caatinga,2012,3947.56,,sim
+Caatinga,2013,3947.56,,sim
+Caatinga,2014,3602.16,,não
+Caatinga,2015,2432.87,,sim
+Caatinga,2016,2432.87,,sim
+Caatinga,2017,2246.17,,não
+Caatinga,2018,2169.55,-3.41,não
+Caatinga,2019,1868.16,-13.89,não
+Caatinga,2020,2226.05,19.16,não
+Caatinga,2021,2096.16,-5.83,não
+Caatinga,2022,2627.63,25.35,não
+Caatinga,2023,3169.61,20.63,não
+Caatinga,2024,3484.38,9.93,não
+Caatinga,2025,2289.54,-34.29,não
+Cerrado,2001,26933.02,,sim
+Cerrado,2002,26933.02,,sim
+Cerrado,2003,28770.33,,sim
+Cerrado,2004,28770.33,,sim
+Cerrado,2005,16877.45,,sim
+Cerrado,2006,16877.45,,sim
+Cerrado,2007,13311.56,,sim
+Cerrado,2008,13311.56,,sim
+Cerrado,2009,9910.34,,sim
+Cerrado,2010,9910.34,,sim
+Cerrado,2011,8976.17,,sim
+Cerrado,2012,8976.17,,sim
+Cerrado,2013,13481.6,,não
+Cerrado,2014,10904.42,-19.12,não
+Cerrado,2015,11131.65,2.08,não
+Cerrado,2016,7497.12,-32.65,não
+Cerrado,2017,7117.38,-5.07,não
+Cerrado,2018,7259.82,2.0,não
+Cerrado,2019,6319.02,-12.96,não
+Cerrado,2020,7902.65,25.06,não
+Cerrado,2021,8531.44,7.96,não
+Cerrado,2022,10688.61,25.28,não
+Cerrado,2023,11011.69,3.02,não
+Cerrado,2024,8174.17,-25.77,não
+Cerrado,2025,7235.27,-11.49,não
+Cerrado,2026,5516.69,-23.75,não
+Mata Atlântica,2001,5625.91,,sim
+Mata Atlântica,2002,5625.91,,sim
+Mata Atlântica,2003,5625.91,,sim
+Mata Atlântica,2004,5625.91,,sim
+Mata Atlântica,2005,6384.15,,sim
+Mata Atlântica,2006,6384.15,,sim
+Mata Atlântica,2007,4004.42,,sim
+Mata Atlântica,2008,4004.42,,sim
+Mata Atlântica,2009,2020.43,,sim
+Mata Atlântica,2010,2020.43,,sim
+Mata Atlântica,2011,1879.88,,não
+Mata Atlântica,2012,1427.8,,sim
+Mata Atlântica,2013,1427.8,,sim
+Mata Atlântica,2014,1887.33,,não
+Mata Atlântica,2015,1206.65,,sim
+Mata Atlântica,2016,1206.65,,sim
+Mata Atlântica,2017,1166.12,,não
+Mata Atlântica,2018,1344.35,15.28,não
+Mata Atlântica,2019,1067.37,-20.6,não
+Mata Atlântica,2020,790.61,-25.93,não
+Mata Atlântica,2021,926.98,17.25,não
+Mata Atlântica,2022,1032.66,11.4,não
+Mata Atlântica,2023,765.17,-25.9,não
+Mata Atlântica,2024,475.18,-37.9,não
+Mata Atlântica,2025,402.36,-15.32,não
+Pampa,2001,2866.0,,sim
+Pampa,2002,2866.0,,sim
+Pampa,2003,2866.0,,sim
+Pampa,2004,2866.0,,sim
+Pampa,2005,2004.36,,sim
+Pampa,2006,2004.36,,sim
+Pampa,2007,1449.72,,sim
+Pampa,2008,1449.72,,sim
+Pampa,2009,1027.92,,sim
+Pampa,2010,1027.92,,sim
+Pampa,2011,1699.81,,não
+Pampa,2012,1125.97,,sim
+Pampa,2013,1125.97,,sim
+Pampa,2014,2118.72,,não
+Pampa,2015,924.38,,sim
+Pampa,2016,924.38,,sim
+Pampa,2017,925.88,,não
+Pampa,2018,917.77,-0.88,não
+Pampa,2019,1027.4,11.95,não
+Pampa,2020,888.62,-13.51,não
+Pampa,2021,1526.57,71.79,não
+Pampa,2022,755.25,-50.53,não
+Pampa,2023,654.58,-13.33,não
+Pampa,2024,524.19,-19.92,não
+Pampa,2025,305.48,-41.72,não
+Pantanal,2001,1000.06,,sim
+Pantanal,2002,1000.06,,sim
+Pantanal,2003,1000.06,,sim
+Pantanal,2004,1000.06,,sim
+Pantanal,2005,845.96,,sim
+Pantanal,2006,845.96,,sim
+Pantanal,2007,518.45,,sim
+Pantanal,2008,518.45,,sim
+Pantanal,2009,664.89,,sim
+Pantanal,2010,664.89,,sim
+Pantanal,2011,510.39,,não
+Pantanal,2012,429.83,,sim
+Pantanal,2013,429.83,,sim
+Pantanal,2014,369.73,,não
+Pantanal,2015,618.55,,sim
+Pantanal,2016,618.55,,sim
+Pantanal,2017,711.6,,não
+Pantanal,2018,498.52,-29.94,não
+Pantanal,2019,514.48,3.2,não
+Pantanal,2020,677.86,31.76,não
+Pantanal,2021,824.47,21.63,não
+Pantanal,2022,789.41,-4.25,não
+Pantanal,2023,723.13,-8.4,não
+Pantanal,2024,842.44,16.5,não
+Pantanal,2025,291.21,-65.43,não
