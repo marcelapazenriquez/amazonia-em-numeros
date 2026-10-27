@@ -12,13 +12,13 @@ Todos os números vêm direto da fonte oficial. Este repositório traz os dados 
 
 Na rota Rio–Belém, o avião cruza o Cerrado de Goiás e do Tocantins antes de chegar à floresta. A série do PRODES/INPE mostra o que essa paisagem esconde.
 
-| Resultado | Valor | Onde conferir |
-|---|---|---|
-| Anos (2008–2025) em que o Cerrado desmatou mais que a Amazônia | **11 de 18** | Excel, aba *Conferência*, linha 1 |
-| Período em que a Amazônia desmatou mais | **2016 a 2022** | Excel, aba *Conferência*, linha 1b |
-| Desmatamento na floresta amazônica, 2022 → 2026 | **12.474 → 3.363 km² (−73%)** | Excel, aba *Conferência*, linhas 2a a 2c |
-| Participação do Cerrado no desmatamento do país em 2025 | **45%** (7.235 de 16.089 km²) | Excel, aba *Conferência*, linhas 3a e 3b |
-| Área desmatada acumulada, 2008–2025 | **Cerrado 168.339 km² × Amazônia 144.598 km²** | Excel, aba *Conferência*, linhas 4a e 4b |
+| Resultado | Valor |
+|---|---|
+| Anos (2008–2025) em que o Cerrado desmatou mais que a Amazônia | **11 de 18** |
+| Período em que a Amazônia desmatou mais | **2016 a 2022** |
+| Desmatamento na floresta amazônica, 2022 → 2026 | **12.474 → 3.363 km² (−73%)** |
+| Participação do Cerrado no desmatamento do país em 2025 | **45%** (7.235 de 16.089 km²) | 
+| Área desmatada acumulada, 2008–2025 | **Cerrado 168.339 km² × Amazônia 144.598 km²** |
 
 <p>
   <img src="graficos/02_amazonia_serie.png" width="40%" alt="Gráfico: desmatamento anual na floresta amazônica, 2008 a 2026">
@@ -27,22 +27,8 @@ Na rota Rio–Belém, o avião cruza o Cerrado de Goiás e do Tocantins antes de
 
 ---
 
-## Como usar — escolha o seu caminho
+## Como usar 
 
-### 1. Quero só ver os dados
-Abra [`dados/prodes_biomas.xlsx`](dados/prodes_biomas.xlsx) e clique no botão de download (seta para baixo, no canto direito). A planilha tem quatro abas:
-
-| Aba | O que mostra |
-|---|---|
-| **Leia-me** | Fonte, link e passo a passo de extração |
-| **Tabela anual** | Anos nas linhas, biomas nas colunas. A mais fácil de ler |
-| **Base longa** | Um registro por bioma e ano, com variação anual e filtros |
-| **Conferência** | Cada número do post calculado por fórmula, com a checagem ✓ |
-
-### 2. Quero conferir as contas
-Na aba **Conferência**, clique em qualquer célula da coluna C para ver a fórmula. Os valores em azul na aba **Tabela anual** são copiados, sem alteração, dos arquivos do INPE em [`dados/brutos/`](dados/brutos).
-
-### 3. Quero refazer tudo no R
 1. Nesta página, clique no botão verde **Code → Download ZIP**.
 2. Descompacte na pasta **Downloads**. Evite Documentos e pastas do OneDrive, que podem bloquear o R ("Acesso negado").
 3. Dentro da pasta, dê dois cliques em **`amazonia-em-numeros.Rproj`**. O RStudio abre já na pasta certa.
@@ -80,7 +66,7 @@ shell.exec(getwd())   # no Mac, use: system("open .")
 
 ---
 
-## O que tem em cada pasta
+## Conteúdo das pastas
 
 | Pasta ou arquivo | O que é |
 |---|---|
