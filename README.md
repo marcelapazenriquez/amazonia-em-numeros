@@ -95,7 +95,7 @@ shell.exec(getwd())   # no Mac, use: system("open .")
 
 | # | Tema | Link |
 |---|---|---|
-| 1 | [Desde 2023, o Cerrado perde mais vegetação que a Amazônia](posts/01_cerrado_no_caminho_para_belem.md) | _(link do post)_ |
+| 1 | [Desde 2023, o Cerrado perde mais vegetação que a Amazônia](posts/01_cerrado_no_caminho_para_belem.md) | _[https://lnkd.in/p/dMcBmc9R]_ |
 
 ---
 
